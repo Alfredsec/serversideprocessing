@@ -15,12 +15,9 @@ Create Django Admin project.
 Create python programs for views and urls.
 
 ### Step 4:
-Create python programs for views and urls.
-
-### Step 5:
 Create a HTML file of forms.
 
-### Step 6:
+### Step 5:
 Publish the website in the given URL.
 
 ## PROGRAM :
